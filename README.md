@@ -3,7 +3,7 @@ Application developed in the Omnistack 11.0.
 
 ## Used technologies
 
-That application use the JavaScript Stacks: 
+That application use the JavaScript's Stacks: 
 
 - NodeJS on the backend
 - React on the frontend
@@ -47,4 +47,4 @@ The components were made using the JSX strucutre, that is, using HTML, CSS in th
 
 The mobile application was made using Expo and the development using Components.
 
-One interesting feature it's the use of WhatsApp dinamyc link for create one layer of comunication between then.
+An interesting feature is the use of WhatsApp's dynamic link to create a communication layer between them.

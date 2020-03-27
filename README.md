@@ -9,8 +9,6 @@ That application use the JavaScript's Stacks:
 - React on the frontend
 - React Native on the mobile application
 
----
-
 # Backend
 
 ## Useds packages
@@ -20,7 +18,6 @@ That application use the JavaScript's Stacks:
 - *Celebrate* used to validate persistences in the database
 - *Jest* used to make unity tests and integration tests
 
----
 # Frontend
 
 The components were made using the JSX strucutre, that is, using HTML, CSS in the JavaScript component development.
@@ -40,8 +37,6 @@ The components were made using the JSX strucutre, that is, using HTML, CSS in th
 
 ### Incident Register page
 ![alt text](https://i.imgur.com/LZ5E0gA.png "Logon page")
-
----
 
 # Mobile
 
